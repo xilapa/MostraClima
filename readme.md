@@ -23,7 +23,7 @@ Aplicação web que realiza a consulta de dados climáticos na [API Weatherstack
 
 Foi implementada uma versão do back-end na Azure [Mostra Clima API](https://mostraclima.azurewebsites.net) e uma versão do front-end no Github Pages [Mostra Clima Web](https://xilapa.github.io/MostraClima/), ambos totalmente funcionais e conectados
 
-**ATENÇÃO** : Para o funcionamento correto da página é nescessário habilitar conteúdo misto (HTTP e HTTPS) nesta página dada a uma limitação do plano free da [API Weatherstack ](https://weatherstack.com/), neste link tem um tutorial rápido de como fazer isto.
+**ATENÇÃO** : Para o funcionamento correto da página é nescessário habilitar conteúdo misto (HTTP e HTTPS) dada a uma limitação do plano free da [API Weatherstack ](https://weatherstack.com/), neste link há um tutorial rápido de como fazer isto.
 
 [https://experienceleague.adobe.com/docs/target/using/experiences/vec/troubleshoot-composer/mixed-content.html?lang=pt-BR#task_FF297A08F66E47A588C14FD67C037B3A](https://experienceleague.adobe.com/docs/target/using/experiences/vec/troubleshoot-composer/mixed-content.html?lang=pt-BR#task_FF297A08F66E47A588C14FD67C037B3A)
 
