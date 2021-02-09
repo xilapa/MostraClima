@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.btn-primary {
+    width: 110px;
+}
+
+.searchInput-wrapper {
+    width: 50%;
+}
+
+#clima-wrapper{
+    display: none;
+    width: 50%;
+
+}
+
+#sem-resultado
+{
+    display: none;
+    width: 50%;
+}
+
+#historico-wrapper{
+    display: none;
+}
+
+.loading
+{
+    display: none;
+}
+
+.loading img
+{
+    width: auto;
+    height: 200px;
+}
+
+#weather-icon
+{
+    height: 70px;
+    width: auto;
+}
+
+#results-main
+{
+    align-items: center;
+}
+
+.navbarwrapper
+{
+    height: 60px;
+}
+
+.historico
+{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.historico table
+{
+    width: 80%;
+}
+
